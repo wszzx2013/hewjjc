@@ -2,4 +2,6 @@
 
 ## Volcano
 UNC:99 sUNC:96
-[](https://volcano.best/)
+# 免费注入器
+
+Volcano[](https://volcano.best/)
