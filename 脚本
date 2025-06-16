@@ -1,0 +1,4 @@
+MsPaint:
+```lua
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/002c19202c9946e6047b0c6e0ad51f84.lua"))()
+```
